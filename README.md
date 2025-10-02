@@ -33,12 +33,10 @@ Aqui estão algumas das tecnologias com as quais trabalhei em projetos, cursos e
 ### 🧠 Viva Mente - Controle para Clínica de Psicologia
 Sistema de controle para uma clínica de psicologia, desenvolvido para gerenciar o cadastro de pacientes, psicólogos e agendamentos de consultas.
 - **Tecnologias:** C#, ASP.NET Core MVC, JavaScript, JQuery, Bootstrap, HTML, CSS.
-- **[Link para o Repositório]**
 
 ### 🐾 Carteira Vacina Pet
 Aplicativo móvel para gerenciamento de vacinas e medicamentos para animais de estimação. Permite cadastrar e consultar as vacinas e medicamentos aplicados.
 - **Tecnologias:** JavaScript, TypeScript, CSS, HTML, Java, Ionic React.
-- **[Link para o Repositório]**
 
 ## 🎓 Formação Acadêmica
 
