@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/francyelli-silva-b2601511a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-Sou uma desenvolvedora apaixonada por tecnologia, iniciando a carreira na área de desenvolvimento de sistemas, após uma sólida experiência na área de Química [5].
+Sou uma desenvolvedora apaixonada por tecnologia, iniciando a carreira na área de desenvolvimento de sistemas, após uma sólida experiência na área de Química.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -33,19 +33,19 @@ Aqui estão algumas das tecnologias com as quais trabalhei em meus projetos e cu
 ## 📂 Projetos em Destaque
 
 ### 🧠 Viva Mente - Controle para Clínica de Psicologia
-Sistema de controle para uma clínica de psicologia, desenvolvido para gerenciar o cadastro de pacientes, psicólogos e agendamentos de consultas [5].
-- **Tecnologias:** C#, ASP.NET Core MVC, JavaScript, JQuery, Bootstrap, HTML, CSS [5].
+Sistema de controle para uma clínica de psicologia, desenvolvido para gerenciar o cadastro de pacientes, psicólogos e agendamentos de consultas.
+- **Tecnologias:** C#, ASP.NET Core MVC, JavaScript, JQuery, Bootstrap, HTML, CSS.
 - **[Link para o Repositório]**
 
 ### 🐾 Carteira Vacina Pet
-Aplicativo móvel para gerenciamento de vacinas e medicamentos para animais de estimação. Permite cadastrar e consultar as vacinas e medicamentos aplicados [5].
-- **Tecnologias:** JavaScript, TypeScript, CSS, HTML, Java, Ionic React [5].
+Aplicativo móvel para gerenciamento de vacinas e medicamentos para animais de estimação. Permite cadastrar e consultar as vacinas e medicamentos aplicados.
+- **Tecnologias:** JavaScript, TypeScript, CSS, HTML, Java, Ionic React.
 - **[Link para o Repositório]**
 
 ## 🎓 Formação Acadêmica
 
-- **Bacharelado em Sistemas de Informação** - Universidade Tecnológica Federal do Paraná (Conclusão 2029) [3].
-- **Pós-Graduação de Desenvolvimento de Sistemas em Python** - Universidade Tecnológica Federal do Paraná (Conclusão 12/2025) [3].
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Centro Universitário Filadélfia (Conclusão 2024) [3].
-- **Pós-Graduação em Química Analítica** - Estude sem Fronteiras (Conclusão 2021) [3].
-- **Graduação em Química Bacharelado** - UNOPAR (Conclusão 2020) [3].
+- **Bacharelado em Sistemas de Informação** - Universidade Tecnológica Federal do Paraná (Conclusão 2029).
+- **Pós-Graduação de Desenvolvimento de Sistemas em Python** - Universidade Tecnológica Federal do Paraná (Conclusão 12/2025).
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Centro Universitário Filadélfia (Conclusão 2024).
+- **Pós-Graduação em Química Analítica** - Estude sem Fronteiras (Conclusão 2021).
+- **Graduação em Química Bacharelado** - UNOPAR (Conclusão 2020).
