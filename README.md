@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/francyelli-silva-b2601511a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-Sou uma desenvolvedora apaixonada por tecnologia, iniciando a carreira na área de desenvolvimento de sistemas, após uma sólida experiência na área de Química.
+Sou uma desenvolvedora apaixonada por tecnologia, iniciando a carreira na área de desenvolvimento de sistemas, após uma sólida experiência na área da Química.
 
 ## 🛠️ Tecnologias e Ferramentas
 
