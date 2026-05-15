@@ -32,11 +32,11 @@ Estou construindo um pipeline de dados em produção com as seguintes tecnologia
 
 🎓 Formação Acadêmica
 
-Bacharelado em Sistemas de Informação — UTFPR (em andamento, conclusão 2029)
-Pós-Graduação em Desenvolvimento de Sistemas em Python — Unicesumar (conclusão 2026)
-Tecnólogo em Análise e Desenvolvimento de Sistemas — Centro Universitário Filadélfia (conclusão 2024)
-Pós-Graduação em Química Analítica — Estude sem Fronteiras (conclusão 2021)
-Bacharelado em Química — UNOPAR (conclusão 2020)
+ - Bacharelado em Sistemas de Informação — UTFPR (em andamento, conclusão 2029)
+ - Pós-Graduação em Desenvolvimento de Sistemas em Python — Unicesumar (conclusão 2026)
+ - Tecnólogo em Análise e Desenvolvimento de Sistemas — Centro Universitário Filadélfia (conclusão 2024)
+ - Pós-Graduação em Química Analítica — Estude sem Fronteiras (conclusão 2021)
+ - Bacharelado em Química — UNOPAR (conclusão 2020)
 
 
 🔭 Onde estou chegando
