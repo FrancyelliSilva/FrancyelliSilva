@@ -22,8 +22,7 @@ Dados e Backend
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-📚 Aprendendo agora
-Estou construindo um pipeline de dados em produção com as seguintes tecnologias:
+📚 Aprendendo agora, construindo um pipeline de dados em produção com as seguintes tecnologias:
 <p>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
