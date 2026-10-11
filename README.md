@@ -4,7 +4,7 @@ Olá, eu sou a Francyelli! 👋
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-Desenvolvedora Full Stack com experiência em sistemas web e sites institucionais, em transição para a área de dados. Atualmente construindo pipelines reais com dbt, PostgreSQL e Apache Airflow — da ingestão até o dashboard — dentro de um projeto com arquitetura Bronze/Silver/Gold.
+Desenvolvedora Full Stack com experiência em sistemas web e sites institucionais, atuando na área de dados. Atualmente construindo pipelines reais com dbt, PostgreSQL e Apache Airflow — da ingestão até o dashboard — dentro de um projeto com arquitetura Bronze/Silver/Gold.
 Tenho formação em Química, o que me deu uma base sólida em raciocínio analítico e interpretação de dados antes mesmo de entrar na tecnologia.
 
 🛠️ O que já uso no dia a dia
